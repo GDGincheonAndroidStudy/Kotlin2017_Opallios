@@ -20,3 +20,5 @@ KH.Lee's Kotlin Study Repository
 + 과제
   - [[OpenWheatherMap](https://openweathermap.org/)] 에서 날씨정보를 수신하여 안드로이드에서 Show
   - Request 라이브러리 : [Retrofit](http://square.github.io/retrofit/)
+  - OpenWheatherMap에서 날씨정보를 받아 JSON을 파싱하여 name을 TextView에 보여줌.
+  - Java로 먼저 개발하고 kotlin으로 Conversion을 하여 어떻게 사용하는지를 파악함!! (맨땅부터 코틀린으로 개발하려니 문법도 방법도 어려워서 이와같은 방법으로 스터디함!)
